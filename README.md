@@ -1,7 +1,5 @@
 # Proyecto Link Tree
 
-Autor: [@johnnietirado](https://github.com/johnnietirado)
+Proyecto realizado de Codealo.dev
 
-Utiliza esta base y las imagenes para crear tu propio link tree.
-
-Puedes luego utilizar [GitHub pages](https://pages.github.com/) para poder compartirlo con el internet.
+El proyecto cuenta todo html y css en la cual son 4 botones accediento a distintos lugares.
